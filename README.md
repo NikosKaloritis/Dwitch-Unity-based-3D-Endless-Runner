@@ -1,4 +1,4 @@
-# Dwitch Endless-Runner-Game
+# Dwitch - Unity based 3D Endless Runner
 
 - [Demo](https://nikoskaloritis.github.io/Dwitch---Endless-Runner-Game/)
  </br>
